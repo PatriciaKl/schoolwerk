@@ -1,0 +1,177 @@
+.content {
+    display: flex;
+    flex-direction:row;
+    margin: 0px;
+}
+
+body{
+    background-color: lightgrey;
+    margin: 0px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: navy;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    color: white;
+    height: 50px;
+    padding: 5px 10px 5px 20px;  
+}
+   
+.navbar1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;   
+}
+
+.navbar1 img {
+    height: 40px;
+}
+
+.navbar2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+
+.navbar2 img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;  
+}
+
+.navbar2 p {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 10px;
+    background-color: white;
+    padding: 0px 0px 0px 15px;
+    border-radius: 5px;
+}
+
+.navbar3 p {
+    color: rgb(8, 196, 133);
+}
+
+.navbar3 img {
+    width: 30px;
+    height: 20px;
+    margin-right: 5px;
+    padding-top: 5px;
+}
+
+.navbar4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+
+.navbar4 img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.navbar4 p {
+    margin-right: 20px;
+}
+
+a, p {
+    display: inline;
+    color: white;
+    text-decoration: none;}
+
+.level {
+    margin-right: 50px;
+    background-color: rgb(110, 204, 204);
+    color: white;
+    padding: 5px 50px;
+    border-radius: 5px;
+    }
+
+.profile img {
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+table {
+    border-collapse: collapse; 
+    border: 1px solid lightgray;
+    box-shadow: 5px 5px 5px lightgray; 
+    background-color: white;
+    width: 85%; 
+    margin-left: 100px;
+}
+
+h1 {
+    margin-left: 100px;
+}
+    
+th {
+    color: gray;
+    font-size: small;
+    width: 200px;
+    text-align: left;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+}
+    
+.tabel {
+    display: flex;
+    flex-direction: row;
+   
+}
+    
+.growth1 {
+    width: 15%;
+    border: 1px solid lightgray;
+    box-shadow: 5px 5px 5px lightgray;
+    background-color: white;
+    text-align: left;
+    padding: 10px;
+    margin-right: 500px;
+    margin-top: 20px ;
+}
+    
+.growth1 img {
+    width: 100%;
+}
+
+.growth1 p {
+    color: black;
+}
+    
+.titel {
+    margin-left: 300px;
+}
+    
+td {
+    border-bottom:  1px solid lightgray;
+    border-top: 1px solid lightgray;
+    padding: 10px;
+}
+    
+button {
+    background-color: rgb(8, 196, 133);
+    border-radius: 5px;
+    color: white;
+    box-shadow: 5px 5px 5px lightgray;
+    
+}       
+   
+  
+    
+
+   
+    
+    
